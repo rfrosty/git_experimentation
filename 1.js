@@ -1,3 +1,3 @@
-console.log(11);
+varr1 = '1master'
 
 
